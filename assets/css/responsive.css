@@ -9,6 +9,9 @@
     .top-bar-right{
         justify-content: center;
     }
+    /* .navbar-light .navbar-toggler {
+        color: #ffffff;
+    } */
 }
 @media screen and (max-width: 426px){
     .top-bar-right{
@@ -25,4 +28,11 @@
     a{
         font-size: 18px;
     }
+    .m-menu{
+        display: block;
+    }
+    .btn-lg{
+        font-size: 15px !important;
+    }
+    
 }

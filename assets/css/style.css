@@ -31,3 +31,15 @@ a{
 a:hover{
     color: white;
 }
+.m-text-white{
+    color: #ffffff;
+}
+.nav-link{
+    color: #ffffff;
+}
+.collapse .navbar-nav .nav-item a{
+    color: #ffffff;
+}
+.navbar-light .navbar-toggler {
+    color: #ffffff;
+}
