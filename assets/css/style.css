@@ -31,15 +31,21 @@ a{
 a:hover{
     color: white;
 }
-.m-text-white{
-    color: #ffffff;
-}
 .nav-link{
-    color: #ffffff;
+    color: #ffaa2f;
 }
 .collapse .navbar-nav .nav-item a{
-    color: #ffffff;
+    color: #ffaa2f;
 }
 .navbar-light .navbar-toggler {
-    color: #ffffff;
+    color: #ffaa2f;
+}
+.button-right{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.btn-secondary{
+    background-color: #584948;
+    color: #ffaa2f;
 }

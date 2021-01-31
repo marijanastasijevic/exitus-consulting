@@ -28,11 +28,11 @@
     a{
         font-size: 18px;
     }
-    .m-menu{
-        display: block;
+    .button-right{
+        justify-content: center;
     }
     .btn-lg{
-        font-size: 15px !important;
+        font-size: 16px;
     }
     
 }
