@@ -9,10 +9,14 @@
 }
 .text{
     padding: 0px 20px;
+    text-align: center;
     color:#ffaa2f;
 }
 .social{
     color: #ffaa2f;
+}
+.social a{
+    padding: 0px 10px;
 }
 a{
     color: inherit;
