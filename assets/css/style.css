@@ -49,3 +49,19 @@ a:hover{
     background-color: #584948;
     color: #ffaa2f;
 }
+.slideshow{
+    background-size: cover;
+    
+    
+}
+.carousel-item h5{
+    color: #000000;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: italic;
+}
+.carousel-item p{
+    color: #000000;
+    font-size: 20px;
+    font-style: italic;
+}
