@@ -1,3 +1,16 @@
+@media screen and (max-width: 1025px){
+    .m-feature-item i{
+        font-size: 35px;
+    }
+    .m-feature-item h3{
+        font-size: 20px;
+    }
+}
+        
+}
+
+
+
 @media screen and (max-width: 992px){
     .logo{
         display: flex;
@@ -9,9 +22,11 @@
     .top-bar-right{
         justify-content: center;
     }
-    /* .navbar-light .navbar-toggler {
-        color: #ffffff;
-    } */
+    .button-right{
+        justify-content: center;
+    }
+    
+    
 }
 @media screen and (max-width: 426px){
     .top-bar-right{
@@ -28,11 +43,7 @@
     a{
         font-size: 18px;
     }
-    .button-right{
-        justify-content: center;
-    }
-    .btn-lg{
-        font-size: 16px;
-    }
+    
+    
     
 }
