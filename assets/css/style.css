@@ -72,11 +72,38 @@ a:hover{
     text-transform: uppercase;
     font-weight: bold;
 }
+
 .m-feature-item i{
     font-size: 45px;
     padding-top: 30px;
     padding-bottom: 30px;
 }
-.border-right{
-    border-right: 2px solid #aca9a9 !important;
+
+.m-top-feature .m-feature-item{
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+#o-nama{
+    margin-top: 100px;
+}
+.about-img{
+    width: 100%;
+}
+.about-img img{
+    width: 100%;
+    border: 10px solid #000000;
+    justify-content: center;
+}
+.header-right h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: italic;
+    color: #584948;
+    border-bottom: 5px solid #ffaa2f;
+}
+.about-text p{
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+    padding-top: 15px;
 }

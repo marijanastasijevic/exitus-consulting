@@ -11,10 +11,9 @@
 
 
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 769px){
     .logo{
-        display: flex;
-        justify-content: center;
+        align-items: center;
     }
     .social a{
         padding: 0px 10px;
@@ -23,7 +22,10 @@
         justify-content: center;
     }
     .button-right{
-        justify-content: center;
+        align-items: center;
+    }
+    .header-right h2{
+        font-size: 18px;
     }
     
     
