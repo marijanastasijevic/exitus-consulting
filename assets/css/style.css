@@ -115,6 +115,41 @@ a:hover{
     color: #584948;
     border-bottom: 5px solid #ffaa2f;
 }
-.m-header-center p{
+.m-purple-header{
+    background-color: #584948;
+    border: 6px solid #ffaa2f;
+    margin-bottom: 50px;
+
+}
+.m-purple-header h2{
+    text-align: center;
+    color: #ffaa2f;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 500;
+}
+.service-item{
+    text-align: center;
+    color: #ffaa2f;
+    text-transform: uppercase;
+    font-style: italic;
     
 }
+.service-icon h5{
+    background-color: #584948;
+    padding-bottom: 40px;
+    text-align: center;
+    justify-content: center;
+   
+}
+.service-icon i{
+    font-size: 50px;
+    background-color: #584948;
+    width: 80px;
+    height: 80px;
+    padding: 20px 0px;
+
+}
+    
+
+
