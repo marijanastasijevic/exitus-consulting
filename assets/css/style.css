@@ -93,7 +93,7 @@ a:hover{
     border: 10px solid #000000;
     justify-content: center;
 }
-.header-right h2{
+.m-header h2{
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
@@ -106,4 +106,15 @@ a:hover{
     font-size: 20px;
     font-style: italic;
     padding-top: 15px;
+}
+.m-header-center h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 500;
+    color: #584948;
+    border-bottom: 5px solid #ffaa2f;
+}
+.m-header-center p{
+    
 }

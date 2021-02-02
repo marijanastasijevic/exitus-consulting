@@ -21,7 +21,7 @@
     .button-right{
         justify-content: center;
     }
-    .header-right h2{
+    .m-header h2{
         font-size: 25px !important;
     }
     .about-text p{
@@ -50,12 +50,15 @@
     #o-nama{
         margin-top: 50px;
     }
-    .header-right h2{
+    .m-header h2{
         font-size: 22px !important;
         padding-top: 30px;
     }
     .about-text p{
         font-size: 16px;
+    }
+    .py-5{
+        padding-top: 0px !important;
     }
 }
 
