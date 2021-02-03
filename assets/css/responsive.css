@@ -5,6 +5,12 @@
     .m-feature-item h3{
         font-size: 20px;
     }
+    h5{
+        font-size: 17px;
+    }
+    .services-img img {
+        height: 560px;
+    }
 }
         
 @media screen and (max-width: 769px){
@@ -33,6 +39,15 @@
     .py-5{
         padding-top: 20px !important;
         padding-bottom: 20px !important;
+    }
+    .service-item{
+        margin-bottom: 25px;
+    }
+    .services-img{
+        padding-top: 30px;
+    }
+    .services-img img {
+        height: 400px;
     }
     
     
@@ -74,6 +89,20 @@
     .m-p-y h2{
         padding-top: 20px;
     }
+    .btn-link{
+        font-size: 18px;
+    }
+}
+
+/* za 375 i manje */
+@media screen and (max-width: 376px){
+    .btn-link{
+        font-size: 16px;
+    }
+   
+    .services-img img {
+        height: 300px;
+    }
 }
 
 
@@ -82,5 +111,9 @@
     .about-text p{
         font-size: 14px;
     }
+    .services-img img {
+        height: 250px;
+    }
+   
 
 }
