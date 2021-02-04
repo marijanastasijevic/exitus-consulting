@@ -236,6 +236,32 @@ a:hover{
 .col-auto .btn{
     background-color: #ffaa2f;
 }
+#kontakt{
+    position: relative;
+    background-color: #584948;
+    margin-top: -80px;
+}
+.m-footer{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-style: italic;
+}
+.list-group-item{
+    background-color: #584948 !important;
+    color: #ffaa2f !important;
+}
+.footer-header{
+    text-transform: uppercase;
+}
+.footer-link{
+    font-size: 16px;
+}
+.copyright{
+    background-color: #584948;
+    color: #252525;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    padding: 10px 0px;
+}
 
 
 

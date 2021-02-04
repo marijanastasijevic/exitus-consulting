@@ -65,9 +65,12 @@
     .card{
         margin-bottom: 20px !important;
     }
-    
-    
-    
+    .m-footer-usluge{
+        padding-bottom: 30px;
+    }
+    .m-footer-vesti{
+        padding-bottom: 30px;
+    }
 }
 
 
