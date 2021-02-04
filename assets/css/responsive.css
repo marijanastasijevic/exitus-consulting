@@ -11,6 +11,13 @@
     .services-img img {
         height: 560px;
     }
+    .card-title{
+        font-size: 17px;
+        height: 80px;
+    }
+    .card-text{
+        height: 240px;
+    }
 }
         
 @media screen and (max-width: 769px){
@@ -48,6 +55,15 @@
     }
     .services-img img {
         height: 400px;
+    }
+    .card-text {
+        height: 100px;
+    }
+    .card-title {
+        height: 40px;
+    }
+    .card{
+        margin-bottom: 20px !important;
     }
     
     
@@ -92,6 +108,16 @@
     .btn-link{
         font-size: 18px;
     }
+    .card-title{
+        font-size: 14px;
+    }
+    .card-text{
+        font-size: 13px;
+        height: 110px;
+    }
+    .m-btn-orange {
+        font-size: 13px;
+    }
 }
 
 /* za 375 i manje */
@@ -103,6 +129,9 @@
     .services-img img {
         height: 300px;
     }
+    .card-text{
+        height: 130px;
+    }
 }
 
 
@@ -113,6 +142,12 @@
     }
     .services-img img {
         height: 250px;
+    }
+    .card-title{
+        height: 60px;
+    }
+    .card-text{
+        height: 150px;
     }
    
 

@@ -184,8 +184,30 @@ a:hover{
     height: 525px;
     width: 100%;
     border: 10px solid #252525;
-    
 }
+.card-title{
+    text-transform: uppercase;
+    color: #ffaa2f;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    height: 100px;
+}
+.card-text{
+    font-size: 16px;
+    text-align: justify;
+    height: 200px;
+}
+.m-btn-orange{
+    background-color: #584948;
+    color: #ffaa2f;
+}
+.m-btn-orange:hover{
+    background-color: #ffaa2f;
+    color: #252525;
+}
+
 
 
 
