@@ -102,6 +102,9 @@
     .m-purple-header h2{
         font-size: 22px;
     }
+    .service-icon h5{
+        height: 100px;
+    }
     .m-p-y h2{
         padding-top: 20px;
     }
@@ -117,6 +120,21 @@
     }
     .m-btn-orange {
         font-size: 13px;
+    }
+    .m-form span h3 {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .subscribe {
+        margin-top: 20px !important; 
+    }
+    .form-row {
+        display: flex;
+        justify-content: center;
+        padding: 10px 0px;
+    }
+    .col-auto .btn{
+        font-size: 16px;
     }
 }
 
