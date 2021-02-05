@@ -1,3 +1,8 @@
+@font-face{
+    src: url(../font/Kurale-Regular.ttf);
+    font-family: "moj-font";
+}
+
 .m-bg-black{
     background-color: #584948;
 }
@@ -9,6 +14,7 @@
 }
 
 .text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 0px 20px;
     text-align: center;
     color:#ffaa2f;
@@ -33,10 +39,14 @@ a:hover{
 .collapse .navbar-nav .nav-item a{
     color: #ffaa2f;
 }
+.navbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .navbar-light .navbar-toggler {
     color: #ffaa2f;
 }
 .button-right{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     justify-content: flex-end;
     
@@ -50,13 +60,15 @@ a:hover{
     display: block;
 }
 .carousel-item h5{
-    color: #584948;
+    font-family: "moj-font";
+    color:#ffaa2f;
     font-size: 40px;
     font-weight: 900;
     font-style: italic;
 }
 .carousel-item p{
-    color: #584948;
+    font-family: "moj-font";
+    color: #ffaa2f;
     font-size: 20px;
     font-style: italic;
     font-weight: 500;
@@ -68,6 +80,7 @@ a:hover{
     margin-bottom: 50px;
 }
 .m-feature-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffaa2f;
     text-align: center;
     text-transform: uppercase;
@@ -95,6 +108,7 @@ a:hover{
     justify-content: center;
 }
 .m-header h2{
+    font-family: "moj-font";
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
@@ -103,12 +117,14 @@ a:hover{
     border-bottom: 5px solid #ffaa2f;
 }
 .about-text p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: justify;
     font-size: 20px;
     font-style: italic;
     padding-top: 15px;
 }
 .m-header-center h2{
+    font-family: "moj-font";
     text-align: center;
     text-transform: uppercase;
     font-style: italic;
@@ -117,6 +133,7 @@ a:hover{
     border-bottom: 5px solid #ffaa2f;
 }
 .m-purple-header{
+    font-family: "moj-font";
     background-color: #584948;
     border: 6px solid #ffaa2f;
     margin-bottom: 50px;
@@ -146,6 +163,7 @@ a:hover{
 
 }
 .service-icon h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #584948;
     padding: 40px 20px;
     font-weight: 600; 
@@ -168,6 +186,10 @@ a:hover{
 .btn:hover{
     text-decoration: none;
     color: #584948 !important;
+}
+.card{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .card-body{
     font-size: 20px;
@@ -209,6 +231,7 @@ a:hover{
     color: #252525;
 }
 .subscribe{
+    font-family: "moj-font";
     display: flex;
     justify-content: center;
     position: relative;
@@ -237,6 +260,7 @@ a:hover{
     background-color: #ffaa2f;
 }
 #kontakt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative;
     background-color: #584948;
     margin-top: -80px;
@@ -257,6 +281,7 @@ a:hover{
     font-size: 16px;
 }
 .copyright{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #584948;
     color: #252525;
     border-top: 2px solid rgba(0, 0, 0, 0.1);
