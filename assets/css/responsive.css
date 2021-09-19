@@ -1,0 +1,175 @@
+@media screen and (max-width: 1025px){
+    .m-feature-item i{
+        font-size: 35px;
+    }
+    .m-feature-item h3{
+        font-size: 20px;
+    }
+    h5{
+        font-size: 17px;
+    }
+    .services-img img {
+        height: 560px;
+    }
+    .card-title{
+        font-size: 17px;
+        height: 80px;
+    }
+    .card-text{
+        height: 240px;
+    }
+}
+        
+@media screen and (max-width: 769px){
+    .logo{
+        display: flex;
+        justify-content: center;
+    }
+    .social a{
+        padding: 0px 10px;
+    }
+    .top-bar-right{
+        justify-content: center;
+    }
+    .button-right{
+        justify-content: center;
+    }
+    .m-header h2{
+        font-size: 25px !important;
+    }
+    .about-text p{
+        font-size: 18px;
+    }
+    .m-purple-header h2{
+        font-size: 25px;
+    }
+    .py-5{
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    .service-item{
+        margin-bottom: 25px;
+    }
+    .services-img{
+        padding-top: 30px;
+    }
+    .services-img img {
+        height: 400px;
+    }
+    .card-text {
+        height: 100px;
+    }
+    .card-title {
+        height: 40px;
+    }
+    .card{
+        margin-bottom: 20px !important;
+    }
+    .m-footer-usluge{
+        padding-bottom: 30px;
+    }
+    .m-footer-vesti{
+        padding-bottom: 30px;
+    }
+}
+
+
+@media screen and (max-width: 426px){
+    .top-bar-right{
+        display: block;
+    }
+    .text h2{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .social{
+        display: flex;
+        justify-content: center;
+    }
+    a{
+        font-size: 18px;
+    }
+    #o-nama{
+        margin-top: 50px;
+    }
+    .m-header h2{
+        font-size: 22px !important;
+        padding-top: 30px;
+    }
+    .about-text p{
+        font-size: 16px;
+    }
+    .py-5{
+        padding-top: 0px !important;
+    }
+    .m-purple-header h2{
+        font-size: 22px;
+    }
+    .service-icon h5{
+        height: 100px;
+    }
+    .m-p-y h2{
+        padding-top: 20px;
+    }
+    .btn-link{
+        font-size: 18px;
+    }
+    .card-title{
+        font-size: 14px;
+    }
+    .card-text{
+        font-size: 13px;
+        height: 110px;
+    }
+    .m-btn-orange {
+        font-size: 13px;
+    }
+    .m-form span h3 {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .subscribe {
+        margin-top: 20px !important; 
+    }
+    .form-row {
+        display: flex;
+        justify-content: center;
+        padding: 10px 0px;
+    }
+    .col-auto .btn{
+        font-size: 16px;
+    }
+}
+
+/* za 375 i manje */
+@media screen and (max-width: 376px){
+    .btn-link{
+        font-size: 16px;
+    }
+   
+    .services-img img {
+        height: 300px;
+    }
+    .card-text{
+        height: 130px;
+    }
+}
+
+
+/* Za 321 i manje */
+@media screen and (max-width: 321px){
+    .about-text p{
+        font-size: 14px;
+    }
+    .services-img img {
+        height: 250px;
+    }
+    .card-title{
+        height: 60px;
+    }
+    .card-text{
+        height: 150px;
+    }
+   
+
+}
